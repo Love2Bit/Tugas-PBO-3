@@ -23,10 +23,10 @@ public class Main {
            if (aksi.equalsIgnoreCase("0")) {
                 System.exit(0);
             } else {
-                System.out.println("Kamu salah pilih");
+                System.out.println("Tidak ada pilihan lainnya");
             }
 
-            System.out.println("0.Keluar");
+            System.out.println("0.Silahkan Keluar");
 
         }
     }
