@@ -4,12 +4,10 @@ Contoh Progam tugas interface java menghitung nilai rata - rata siswa
 
 Berikut adalah gambar contoh hasil dari progam tersebut
 
-![Screenshot (1816)](https://user-images.githubusercontent.com/54269175/121272790-04e93d00-c8f1-11eb-8367-fd634195bb32.png)
+![Screenshot (799)](https://user-images.githubusercontent.com/51353623/121275672-6ca28680-c8f7-11eb-9f84-500e9e4a6343.png)
 
-![Screenshot (1817)](https://user-images.githubusercontent.com/54269175/121272823-19c5d080-c8f1-11eb-9982-02d24d2ff33c.png)
+![Screenshot (800)](https://user-images.githubusercontent.com/51353623/121275682-6e6c4a00-c8f7-11eb-81d5-b02be3b74f78.png)
 
-![Screenshot (1818)](https://user-images.githubusercontent.com/54269175/121272859-319d5480-c8f1-11eb-9dc8-eb6ed3b74667.png)
+![Screenshot (796)](https://user-images.githubusercontent.com/51353623/121275686-6f9d7700-c8f7-11eb-90a5-71528c3400f9.png)
 
-![Screenshot (1819)](https://user-images.githubusercontent.com/54269175/121272910-4da0f600-c8f1-11eb-8066-901e30340b11.png)
-
-![Screenshot (1820)](https://user-images.githubusercontent.com/54269175/121272950-5e516c00-c8f1-11eb-80e3-9ba5c292312f.png)
+![Screenshot (797)](https://user-images.githubusercontent.com/51353623/121275689-70360d80-c8f7-11eb-81f6-a589d1cfb9ae.png)
